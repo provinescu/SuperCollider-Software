@@ -14,5 +14,7 @@ This is where the presets and data will be saved.
 You can of course later create other working folders.
 For use with your sounds, edit the file named sound or list sound in the working directory, respecting the syntax.
 
+Look for the Guides !
+
 For the rest, explore and have fun.
 
